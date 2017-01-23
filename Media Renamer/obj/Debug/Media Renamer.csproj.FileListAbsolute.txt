@@ -1,0 +1,13 @@
+D:\Users\Jono\Documents\GitHub\Challenge-defusingTheBomb\Media Renamer\Media Renamer\bin\Debug\Media Renamer.exe.config
+D:\Users\Jono\Documents\GitHub\Challenge-defusingTheBomb\Media Renamer\Media Renamer\bin\Debug\Media Renamer.exe
+D:\Users\Jono\Documents\GitHub\Challenge-defusingTheBomb\Media Renamer\Media Renamer\bin\Debug\Media Renamer.pdb
+D:\Users\Jono\Documents\GitHub\Challenge-defusingTheBomb\Media Renamer\Media Renamer\obj\Debug\Media Renamer.csprojResolveAssemblyReference.cache
+D:\Users\Jono\Documents\GitHub\Challenge-defusingTheBomb\Media Renamer\Media Renamer\obj\Debug\Media Renamer.exe
+D:\Users\Jono\Documents\GitHub\Challenge-defusingTheBomb\Media Renamer\Media Renamer\obj\Debug\Media Renamer.pdb
+D:\Users\Jono\Documents\GitHub\Media Renamer\Media Renamer\bin\Debug\Media Renamer.exe.config
+D:\Users\Jono\Documents\GitHub\Media Renamer\Media Renamer\obj\Debug\Media Renamer.exe
+D:\Users\Jono\Documents\GitHub\Media Renamer\Media Renamer\obj\Debug\Media Renamer.pdb
+D:\Users\Jono\Documents\GitHub\Media Renamer\Media Renamer\bin\Debug\Media Renamer.exe
+D:\Users\Jono\Documents\GitHub\Media Renamer\Media Renamer\bin\Debug\Media Renamer.pdb
+D:\Users\Jono\Documents\GitHub\Media Renamer\Media Renamer\bin\Debug\taglib-sharp.dll
+D:\Users\Jono\Documents\GitHub\Media Renamer\Media Renamer\obj\Debug\Media Renamer.csprojResolveAssemblyReference.cache
